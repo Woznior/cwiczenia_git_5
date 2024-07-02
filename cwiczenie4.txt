@@ -1,1 +1,1 @@
-Tekst cwiczenie4.txt
+Zmieniony tekst cwiczenie4.txt
